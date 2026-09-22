@@ -1,0 +1,9 @@
+{
+  "event_id": "sample-001-001",
+  "kind": "EVENT_PUBLISHED",
+  "occurred_at": "2026-09-20T09:00:00+08:00",
+  "subject_id": "demo-001",
+  "payload": {
+    "note": "虚构资料，仅用于格式核对"
+  }
+}
